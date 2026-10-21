@@ -67,6 +67,26 @@ O sistema reúne um site para clientes e um painel administrativo para apoiar as
 
 [→ Conhecer o repositório do projeto](https://github.com/adrianssz/Estancia-3-Amores)
 
+## Outros projetos em equipe
+
+### 🎟️ UniALFA Eventos — Hackathon
+
+Sistema acadêmico para consulta de eventos, inscrições e certificados de participação.
+
+**Minha participação:** contribuições nas páginas PHP e na integração com a API Node.js para eventos, inscrições e certificados.
+
+**Tecnologias:** PHP, Node.js, JavaScript, Bootstrap e MySQL.
+
+[→ Conhecer o projeto](https://github.com/CarGab12/Hackathon)
+
+### 📦 DevStock
+
+Projeto desenvolvido em equipe durante a graduação.
+
+**Minha participação:** colaboração com a equipe e envio da aplicação ao repositório do projeto.
+
+[→ Conhecer o projeto](https://github.com/adrianssz/Projeto_DevStock)
+
 ## Minhas contribuições
 
 <p align="center">
